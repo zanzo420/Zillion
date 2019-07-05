@@ -1,0 +1,12 @@
+## Interface: 70100
+## Title: |cFFDDA0DDZillion
+## Notes: Helper
+## Libs
+#@no-lib-strip@
+Libs\LibStub\LibStub.lua
+Libs\LibDraw\LibDraw.lua
+WoW.lua
+#@end-no-lib-strip@
+
+## Core Loader
+Core.lua
